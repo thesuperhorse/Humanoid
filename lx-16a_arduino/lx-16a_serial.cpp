@@ -1,4 +1,4 @@
-
+#include "lx-16a_arduino.h"
 
 #define GET_LOW_BYTE(A) (uint8_t)((A))
 //Macro function  get lower 8 bits of A
